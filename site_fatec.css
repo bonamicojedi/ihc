@@ -67,6 +67,11 @@ ul.atalhos li a:hover{
 	color: #2428F3;
 }
 
+.esportesimg:hover{
+	filter: saturate(2);
+	border: 3px solid #000;
+
+}
 ul.atalhos li.pgacess{
 	margin-left: 25%;
 	text-transform: uppercase;
@@ -82,6 +87,20 @@ ul.atalhos li.aumenta{
 
 ul.atalhos li.diminui{
 	padding-left: 1%;
+}
+
+.atleticalist{
+	display: inline;
+	padding-left:3%;
+}
+
+.atleticaimgsubtitle{
+	display: inline;
+	padding-left:3%;
+}
+
+.atleticalist:hover{
+	text-decoration:underline;
 }
 
 /* ajustes do menu */
