@@ -101,6 +101,27 @@ ul.atalhos li.diminui{
 	padding-left:3%;
 }
 
+.roundimage{
+	border-radius: 50%;
+	width: 20%;
+}
+
+.column {
+	float: left;
+	width: 25%;
+	padding: 5px;
+	text-align:center;
+	padding-inline: 15px;
+  }
+
+  .column2 {
+	float: left;
+	width: 33.33%;
+	padding: 5px;
+	text-align:center;
+	padding-inline: 15px;
+  }
+
 .atleticaimgsubtitle{
 	display: inline;
 	padding-left:3%;
@@ -132,6 +153,7 @@ padding-left: 55px;
 .men li{
 position:relative; 
 float:left; 
+font-size: 13px;
 
 }
 .men li a{color:#FFF; text-decoration:none; padding:5px 10px; display:block;}
